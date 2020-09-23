@@ -1,17 +1,15 @@
 {
-    "name": "yahboom  olot unplot each pixel",
+    "name": "yahboom lcd clive supercomp",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "LEDBit": "github:lzty634158/led-bit#e7f18cc74ae1388fef6068196bb0ecdb12c157ff",
-        "SW01": "github:xinabox/pxt-sw01#v1.0.23"
+        "LEDBit": "github:lzty634158/led-bit#e7f18cc74ae1388fef6068196bb0ecdb12c157ff"
     },
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md",
-        "main.py"
+        "README.md"
     ],
     "testFiles": [
         "test.ts"
