@@ -1,0 +1,21 @@
+{
+    "name": "yahboom lcd clive supercomp",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "LEDBit": "github:lzty634158/led-bit#e7f18cc74ae1388fef6068196bb0ecdb12c157ff"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
