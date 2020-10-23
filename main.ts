@@ -1,7 +1,7 @@
 LEDBit.LEDClear()
 LEDBit.LEDAllOn()
 basic.forever(function () {
-	
+    basic.showString("Hello Big Clive")
 })
 control.inBackground(function () {
     while (true) {
