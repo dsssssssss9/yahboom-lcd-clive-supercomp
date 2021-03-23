@@ -3,7 +3,7 @@ LEDBit.LEDAllOn()
 basic.forever(function () {
     basic.showString("B.C.S.C     B.C.S.C     This is a mini  version of the Big Clive SuperComputer, ")
     basic.showString("Hello Big Clive!!! Hello Big Clive!!! Hello Big Clive!!! Hello Big Clive!!!   Hello Family!   Hello Family!   Hello Family!   Hello Family")
-    basic.showString("rink Radium Gin!  Drink Radium Gin!  Drink Radium Gin!  Drink Radium Gin!")
+    basic.showString("Drink Radium Gin!  Drink Radium Gin!  Drink Radium Gin!  Drink Radium Gin!")
 })
 control.inBackground(function () {
     while (true) {
